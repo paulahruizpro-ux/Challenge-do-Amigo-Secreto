@@ -23,7 +23,8 @@ O Desafio do Amigo Secreto foi desenvolvido para praticar a l√≥gica de programa√
 
 <div align="center">
 
-https://github.com/user-attachments/assets/2e55a7ba-272a-40d1-b376-6ef5561ca6e8
+![sorteio mp4](https://github.com/user-attachments/assets/91873bec-d6b8-48ea-9d96-1932f303cd37)
+
 
 </div>
 
