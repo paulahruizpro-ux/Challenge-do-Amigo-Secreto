@@ -7,7 +7,7 @@
 
 # Introdução
 
-O Desafio do Amigo Secreto foi desenvolvido para praticar a lógica de programação. Ele permite que o usuário insira os nomes dos seus amigos, os adicione em uma lista e sorteie o seu amigo secreto. 
+O Desafio do Amigo Secreto foi desenvolvido para praticar a lógica de programação. Ele permite que o usuário sorteie o seu amigo secreto a partir de uma lista com o nome de seus amigos. 
 
 
 # Funcionalidades
